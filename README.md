@@ -1,3 +1,6 @@
+# 笔记
+[https://wookiisky.notion.site/](https://wookiisky.notion.site/)
+
 # 主要项目
 
 ## [builder-panel](https://github.com/wookiisky/builder-panel)
